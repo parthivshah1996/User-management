@@ -9,3 +9,4 @@ Start server - node app.js or nodemon app.js
 # Used mongoDb
 DB name - user
 Collection name - users
+Sample collection export - users.json
